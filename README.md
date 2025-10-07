@@ -90,11 +90,15 @@ pm2 start index.js --name fateservices-api
 ```
 The demo API will be running at http://localhost:3000.
 
+---
+
 ## Usage
 - Explore the routes folder to see how endpoints are defined.
 - Open views folder to examine EJS templates.
 - Modify, fork, and experiment with non-critical code safely.
 - Do not attempt to access proprietary AI endpoints, posting routes, or user data—these are private and protected by Fate Services.
+
+---
 
 ## Contributing
 - We welcome educational and demonstration-focused contributions. Please follow these rules:
@@ -104,6 +108,8 @@ The demo API will be running at http://localhost:3000.
 - Ensure your code is safe, well-documented, and non-commercial.
 
 By contributing, you agree that Fate Services may review, modify, incorporate, or reject contributions at its discretion.
+
+---
 
 ## License & Legal Restrictions
 This repository is licensed under the Fate Services Demo & Non-Commercial Open Source License (2025). Key points:
@@ -115,6 +121,8 @@ This repository is licensed under the Fate Services Demo & Non-Commercial Open S
 
 For full license text, see LICENSE.md.
 
+---
+
 ## Terms of Service & Privacy
 By using this repository:
 
@@ -122,6 +130,8 @@ By using this repository:
 - Attempting to access private endpoints or user data is strictly prohibited.
 
 This repository is for learning and demonstration only and does not provide full platform functionality.
+
+---
 
 ## Support & Contact
 For questions or support regarding this demo:
@@ -131,6 +141,8 @@ Email: hello@fateservices.co
 Discord: [Join our Support Server](https://discord.gg/Sfb96Pqynd)
 
 Website: https://fateservices.co
+
+---
 
 ## ⚠️ Important
 This software is strictly non-commercial, for demonstration and educational use only.
